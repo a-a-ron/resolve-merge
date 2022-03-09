@@ -20,7 +20,7 @@ _Merge conflicts are a normal part of working in Git. Learn why they happen and 
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>:golf: Start</h2></summary>
 
 [![start-course](https://user-images.githubusercontent.com/1221423/154366775-5491926f-9ed1-4a4a-a229-0810c0ed7e5e.svg)](https://github.com/githublearn/resolve-merge-conflicts/generate)
@@ -47,7 +47,7 @@ Merge conflicts happen when two people make changes to the same file on GitHubâ€
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>:lotus_position: Step 1: Resolve a merge conflict</h2></summary>
 
 _Welcome to "Managing Merge Conflicts"! :wave:_
